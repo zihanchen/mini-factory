@@ -1,6 +1,6 @@
 # FactoryRoguePrototype
 
-Minimal Godot 4 C# prototype for a Factorio-like loop:
+Minimal Godot 4.6 C# prototype for a Factorio-like loop:
 
 - Mine `iron ore` and `coal`.
 - Use a furnace to smelt `iron plates`.
@@ -14,6 +14,6 @@ Minimal Godot 4 C# prototype for a Factorio-like loop:
 
 ## Run
 
-1. Open the project folder in Godot 4 with .NET support enabled.
+1. Open the project folder in Godot 4.6 with .NET support enabled.
 2. Build the C# solution if prompted.
 3. Run the main scene.
